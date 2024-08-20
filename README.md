@@ -1,0 +1,1 @@
+# This repository has the intent to implement design patterns in kotlin, based on book "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
